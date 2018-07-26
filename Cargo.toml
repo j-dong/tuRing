@@ -1,12 +1,13 @@
 [package]
-name = "tuRing"
+name = "turing-backend"
 version = "0.1.0"
 authors = [
     "James Dong <dong.james.sept14@gmail.com>",
 ]
-description = "tuRing group chat"
+description = "backend for tuRing group chat"
 repository = "https://github.com/j-dong/tuRing"
 readme = "README.md"
 license = "MIT"
 
 [dependencies]
+"ring" = "*"
