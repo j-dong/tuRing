@@ -2,5 +2,9 @@
 name = "tuRing-backend"
 version = "0.1.0"
 authors = ["James Dong <dong.james.sept14@gmail.com>"]
+description = "Backend for tuRing group chat"
+repository = "https://github.com/j-dong/tuRing-backend"
+readme = "README.md"
+license = "MIT"
 
 [dependencies]
