@@ -1,9 +1,11 @@
 [package]
-name = "tuRing-backend"
+name = "tuRing"
 version = "0.1.0"
-authors = ["James Dong <dong.james.sept14@gmail.com>"]
-description = "Backend for tuRing group chat"
-repository = "https://github.com/j-dong/tuRing-backend"
+authors = [
+    "James Dong <dong.james.sept14@gmail.com>",
+]
+description = "tuRing group chat"
+repository = "https://github.com/j-dong/tuRing"
 readme = "README.md"
 license = "MIT"
 
